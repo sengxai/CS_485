@@ -1,0 +1,9 @@
+src/Level2 Images/Animals/Animal1.jpg
+src/Level2 Images/Animals/Animal2.jpg
+src/Level2 Images/Animals/Animal3.jpg
+src/Level2 Images/Animals/Animal4.jpg
+src/Level2 Images/Animals/Animal5.jpg
+src/Level2 Images/Animals/Animal6.jpg
+src/Level2 Images/Animals/Animal7.jpg
+src/Level2 Images/Animals/Animal8.jpg
+src/Level2 Images/Animals/Animal9.jpg
