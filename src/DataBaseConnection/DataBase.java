@@ -8,8 +8,8 @@ public class DataBase {
 
     Connection conn = null;
     public static final String url = "jdbc:oracle:thin:@alfred.cs.uwec.edu:1521:csdev";
-    public static final String user= "YANGRD0133";
-    public static final String pass = "Q2DEUD3J";
+    public static final String user= "******";
+    public static final String pass = "*******";
     
     public static Connection java_db() {
 
