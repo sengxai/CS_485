@@ -7,7 +7,7 @@ import java.sql.DriverManager;
 public class DataBase {
 
     Connection conn = null;
-    public static final String url = "jdbc:oracle:thin:@alfred.cs.uwec.edu:1521:csdev";
+    public static final String url = "jdbc:oracle:thin:@********:******:*****";
     public static final String user= "******";
     public static final String pass = "*******";
     
