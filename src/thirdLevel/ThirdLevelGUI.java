@@ -1228,8 +1228,8 @@ public class ThirdLevelGUI extends javax.swing.JFrame {
         String to = recipient;
 
         // Sender's credentials
-        String from = "root.3la@gmail.com";
-        String emailPassword = "Test@1234";
+        String from = "*****@gmail.com";
+        String emailPassword = "*****";
 
         // Assuming you are sending email from through gmails smtp
         String host = "smtp.gmail.com";
